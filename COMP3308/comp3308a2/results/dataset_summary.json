@@ -1,0 +1,13 @@
+{
+  "n_examples": 273,
+  "n_features": 11,
+  "classes": [
+    "died",
+    "survived"
+  ],
+  "class_counts": {
+    "died": 90,
+    "survived": 183
+  },
+  "data_type": "nominal / discretised"
+}

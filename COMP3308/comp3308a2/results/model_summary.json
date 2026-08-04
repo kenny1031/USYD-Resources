@@ -1,0 +1,46 @@
+[
+  {
+    "model": "MyKNN",
+    "accuracy": 0.5304,
+    "precision_died": 0.357,
+    "recall_died": 0.5222,
+    "f1_died": 0.4227,
+    "tp": 47,
+    "tn": 98,
+    "fp": 85,
+    "fn": 43
+  },
+  {
+    "model": "MyKNN+",
+    "accuracy": 0.7034,
+    "precision_died": 0.5733,
+    "recall_died": 0.4222,
+    "f1_died": 0.47,
+    "tp": 38,
+    "tn": 154,
+    "fp": 29,
+    "fn": 52
+  },
+  {
+    "model": "MyDT",
+    "accuracy": 0.6377,
+    "precision_died": 0.4659,
+    "recall_died": 0.5222,
+    "f1_died": 0.4855,
+    "tp": 47,
+    "tn": 127,
+    "fp": 56,
+    "fn": 43
+  },
+  {
+    "model": "MyDT+",
+    "accuracy": 0.6704,
+    "precision_died": 0.4966,
+    "recall_died": 0.4222,
+    "f1_died": 0.452,
+    "tp": 38,
+    "tn": 145,
+    "fp": 38,
+    "fn": 52
+  }
+]

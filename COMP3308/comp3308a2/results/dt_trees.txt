@@ -1,0 +1,633 @@
+=== MyDT (whole dataset) ===
+Attribute[7]
+  = high
+  Attribute[8]
+    = high
+    Leaf: died
+    = low
+    Attribute[6]
+      = low
+      Leaf: died
+      = normal
+      Attribute[4]
+        = borderline
+        Leaf: survived
+        = low
+        Attribute[0]
+          = 70plus
+          Attribute[3]
+            = no
+            Leaf: died
+            = yes
+            Attribute[5]
+              = no
+              Leaf: survived
+              = yes
+              Leaf: died
+          = [40-50]
+          Attribute[9]
+            = F
+            Leaf: died
+            = M
+            Leaf: survived
+          = [51-60]
+          Attribute[1]
+            = no
+            Attribute[3]
+              = no
+              Leaf: died
+              = yes
+              Leaf: survived
+            = yes
+            Leaf: died
+          = [61-70]
+          Attribute[3]
+            = no
+            Attribute[5]
+              = no
+              Leaf: survived
+              = yes
+              Leaf: died
+            = yes
+            Leaf: died
+        = mildly-low
+        Attribute[2]
+          = high
+          Leaf: died
+          = normal
+          Leaf: died
+          = very-high
+          Leaf: survived
+        = normal
+        Leaf: survived
+      = very-high
+      Leaf: died
+    = normal
+    Attribute[5]
+      = no
+      Attribute[3]
+        = no
+        Attribute[10]
+          = no
+          Attribute[0]
+            = 70plus
+            Attribute[2]
+              = high
+              Leaf: died
+              = normal
+              Leaf: survived
+            = [40-50]
+            Leaf: died
+            = [51-60]
+            Attribute[1]
+              = no
+              Leaf: survived
+              = yes
+              Attribute[9]
+                = F
+                Leaf: survived
+                = M
+                Leaf: died
+            = [61-70]
+            Attribute[4]
+              = low
+              Leaf: survived
+              = mildly-low
+              Leaf: survived
+              = normal
+              Attribute[1]
+                = no
+                Leaf: died
+                = yes
+                Leaf: survived
+          = yes
+          Leaf: survived
+        = yes
+        Attribute[0]
+          = 70plus
+          Leaf: died
+          = [40-50]
+          Attribute[10]
+            = no
+            Leaf: survived
+            = yes
+            Leaf: died
+          = [51-60]
+          Attribute[9]
+            = F
+            Leaf: died
+            = M
+            Leaf: survived
+          = [61-70]
+          Leaf: died
+      = yes
+      Attribute[0]
+        = 70plus
+        Leaf: died
+        = [40-50]
+        Leaf: died
+        = [51-60]
+        Attribute[1]
+          = no
+          Leaf: survived
+          = yes
+          Attribute[9]
+            = F
+            Leaf: died
+            = M
+            Leaf: survived
+        = [61-70]
+        Leaf: died
+  = low
+  Leaf: survived
+  = normal
+  Attribute[4]
+    = borderline
+    Attribute[3]
+      = no
+      Attribute[2]
+        = high
+        Attribute[6]
+          = low
+          Leaf: died
+          = normal
+          Attribute[0]
+            = 70plus
+            Leaf: survived
+            = [40-50]
+            Attribute[1]
+              = no
+              Leaf: died
+              = yes
+              Leaf: survived
+            = [61-70]
+            Leaf: survived
+        = normal
+        Leaf: survived
+        = very-high
+        Leaf: survived
+      = yes
+      Attribute[1]
+        = no
+        Attribute[0]
+          = 70plus
+          Leaf: survived
+          = [61-70]
+          Attribute[2]
+            = high
+            Leaf: survived
+            = normal
+            Leaf: died
+        = yes
+        Leaf: died
+    = low
+    Attribute[0]
+      = 70plus
+      Attribute[2]
+        = high
+        Attribute[3]
+          = no
+          Attribute[9]
+            = F
+            Leaf: survived
+            = M
+            Attribute[1]
+              = no
+              Attribute[8]
+                = low
+                Attribute[5]
+                  = no
+                  Leaf: died
+                  = yes
+                  Leaf: survived
+                = normal
+                Leaf: survived
+              = yes
+              Leaf: died
+          = yes
+          Attribute[1]
+            = no
+            Leaf: died
+            = yes
+            Leaf: survived
+        = normal
+        Leaf: died
+        = severely-high
+        Leaf: died
+        = very-high
+        Leaf: survived
+      = [40-50]
+      Attribute[6]
+        = high
+        Leaf: survived
+        = low
+        Attribute[1]
+          = no
+          Leaf: survived
+          = yes
+          Leaf: died
+        = normal
+        Attribute[5]
+          = no
+          Attribute[2]
+            = high
+            Attribute[10]
+              = no
+              Attribute[3]
+                = no
+                Attribute[1]
+                  = no
+                  Leaf: died
+                  = yes
+                  Leaf: survived
+                = yes
+                Attribute[1]
+                  = no
+                  Leaf: survived
+                  = yes
+                  Leaf: died
+              = yes
+              Leaf: survived
+            = normal
+            Leaf: survived
+            = severely-high
+            Leaf: survived
+            = very-high
+            Attribute[1]
+              = no
+              Attribute[10]
+                = no
+                Leaf: died
+                = yes
+                Leaf: survived
+              = yes
+              Leaf: survived
+          = yes
+          Attribute[2]
+            = high
+            Attribute[3]
+              = no
+              Leaf: died
+              = yes
+              Leaf: survived
+            = normal
+            Leaf: died
+            = severely-high
+            Leaf: died
+            = very-high
+            Leaf: survived
+        = very-high
+        Leaf: survived
+      = [51-60]
+      Attribute[6]
+        = high
+        Attribute[2]
+          = high
+          Leaf: died
+          = normal
+          Leaf: survived
+        = low
+        Leaf: survived
+        = normal
+        Attribute[2]
+          = high
+          Attribute[1]
+            = no
+            Leaf: survived
+            = yes
+            Leaf: died
+          = normal
+          Attribute[1]
+            = no
+            Leaf: survived
+            = yes
+            Attribute[5]
+              = no
+              Attribute[8]
+                = low
+                Leaf: survived
+                = normal
+                Leaf: died
+              = yes
+              Leaf: survived
+          = severely-high
+          Leaf: died
+          = very-high
+          Attribute[8]
+            = low
+            Leaf: died
+            = normal
+            Attribute[5]
+              = no
+              Attribute[9]
+                = F
+                Leaf: survived
+                = M
+                Leaf: died
+              = yes
+              Leaf: survived
+        = very-high
+        Leaf: survived
+      = [61-70]
+      Attribute[2]
+        = high
+        Attribute[10]
+          = no
+          Attribute[1]
+            = no
+            Leaf: survived
+            = yes
+            Attribute[3]
+              = no
+              Attribute[5]
+                = no
+                Leaf: survived
+                = yes
+                Attribute[9]
+                  = F
+                  Leaf: survived
+                  = M
+                  Leaf: died
+              = yes
+              Leaf: survived
+          = yes
+          Attribute[5]
+            = no
+            Leaf: died
+            = yes
+            Attribute[1]
+              = no
+              Leaf: survived
+              = yes
+              Leaf: died
+        = normal
+        Attribute[5]
+          = no
+          Attribute[9]
+            = F
+            Leaf: died
+            = M
+            Leaf: survived
+          = yes
+          Leaf: survived
+        = very-high
+        Leaf: survived
+    = mildly-low
+    Attribute[5]
+      = no
+      Leaf: survived
+      = yes
+      Attribute[0]
+        = 70plus
+        Attribute[2]
+          = high
+          Leaf: survived
+          = normal
+          Leaf: died
+          = very-high
+          Leaf: survived
+        = [40-50]
+        Leaf: survived
+        = [51-60]
+        Leaf: survived
+        = [61-70]
+        Attribute[1]
+          = no
+          Leaf: died
+          = yes
+          Leaf: survived
+    = normal
+    Attribute[0]
+      = 70plus
+      Leaf: died
+      = [40-50]
+      Leaf: survived
+      = [51-60]
+      Attribute[2]
+        = high
+        Attribute[3]
+          = no
+          Leaf: survived
+          = yes
+          Leaf: died
+        = normal
+        Leaf: survived
+        = very-high
+        Leaf: survived
+      = [61-70]
+      Attribute[5]
+        = no
+        Attribute[3]
+          = no
+          Attribute[1]
+            = no
+            Leaf: survived
+            = yes
+            Leaf: died
+          = yes
+          Leaf: survived
+        = yes
+        Leaf: survived
+
+=== MyDT+ (whole dataset) ===
+Attribute[0]
+  = 70plus
+  Attribute[7]
+    = high
+    Attribute[5]
+      = no
+      Leaf: died
+      = yes
+      Attribute[1]
+        = no
+        Leaf: died
+        = yes
+        Attribute[3]
+          = no
+          Leaf: died
+    = normal
+    Attribute[3]
+      = no
+      Attribute[5]
+        = no
+        Attribute[1]
+          = no
+          Leaf: survived
+          = yes
+          Leaf: died
+        = yes
+        Attribute[10]
+          = no
+          Leaf: survived
+      = yes
+      Attribute[6]
+        = normal
+        Leaf: died
+  = [40-50]
+  Attribute[5]
+    = no
+    Attribute[10]
+      = no
+      Attribute[2]
+        = high
+        Attribute[1]
+          = no
+          Attribute[3]
+            = no
+            Attribute[7]
+              = normal
+              Leaf: died
+            = yes
+            Leaf: survived
+          = yes
+          Leaf: died
+        = normal
+        Attribute[3]
+          = no
+          Attribute[8]
+            = normal
+            Leaf: survived
+          = yes
+          Leaf: survived
+        = very-high
+        Attribute[3]
+          = yes
+          Attribute[7]
+            = normal
+            Attribute[8]
+              = normal
+              Leaf: survived
+      = yes
+      Attribute[9]
+        = M
+        Leaf: survived
+    = yes
+    Attribute[3]
+      = no
+      Attribute[9]
+        = F
+        Attribute[10]
+          = no
+          Leaf: survived
+        = M
+        Leaf: survived
+      = yes
+      Attribute[6]
+        = normal
+        Attribute[8]
+          = low
+          Attribute[4]
+            = low
+            Leaf: survived
+          = normal
+          Attribute[1]
+            = no
+            Attribute[7]
+              = normal
+              Leaf: survived
+  = [51-60]
+  Attribute[7]
+    = high
+    Attribute[9]
+      = F
+      Attribute[3]
+        = no
+        Attribute[10]
+          = no
+          Leaf: died
+        = yes
+        Leaf: died
+      = M
+      Attribute[8]
+        = low
+        Attribute[5]
+          = no
+          Leaf: died
+        = normal
+        Leaf: survived
+    = normal
+    Attribute[1]
+      = no
+      Attribute[9]
+        = F
+        Leaf: survived
+        = M
+        Attribute[5]
+          = no
+          Attribute[10]
+            = no
+            Leaf: survived
+            = yes
+            Leaf: survived
+          = yes
+          Attribute[4]
+            = low
+            Leaf: survived
+      = yes
+      Attribute[4]
+        = low
+        Attribute[5]
+          = no
+          Leaf: died
+          = yes
+          Attribute[8]
+            = normal
+            Leaf: survived
+        = mildly-low
+        Leaf: survived
+        = normal
+        Leaf: survived
+  = [61-70]
+  Attribute[7]
+    = high
+    Attribute[3]
+      = no
+      Attribute[9]
+        = F
+        Attribute[5]
+          = no
+          Attribute[6]
+            = normal
+            Attribute[10]
+              = no
+              Leaf: survived
+        = M
+        Leaf: survived
+      = yes
+      Leaf: died
+    = normal
+    Attribute[2]
+      = high
+      Attribute[9]
+        = F
+        Leaf: survived
+        = M
+        Attribute[5]
+          = no
+          Leaf: survived
+          = yes
+          Attribute[6]
+            = normal
+            Leaf: died
+      = normal
+      Attribute[1]
+        = no
+        Attribute[10]
+          = no
+          Leaf: survived
+          = yes
+          Attribute[6]
+            = normal
+            Leaf: survived
+        = yes
+        Attribute[9]
+          = F
+          Attribute[6]
+            = normal
+            Attribute[10]
+              = no
+              Leaf: survived
+          = M
+          Leaf: survived
+      = very-high
+      Leaf: survived
